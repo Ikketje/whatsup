@@ -1,4 +1,4 @@
-# WhatsUp v1.1
+# Whatp v1.1
 A toool to generate an android apk to get access to all WhatsApp media (pictures, audios, videos, documents) from victim's phone.
 
 ## Instagram: https://instagram.com/programemerz
